@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vmichailidisdev
+- 👋 Hi, I’m Vasilis Michailidis
 - 👀 I’m interested in web, mobile and compilers
 - 🌱 I’m currently learning the web
 - 💞️ I am not currently looking to collaborate
